@@ -2,7 +2,7 @@
  "name": "Agent Economy Index",
  "description": "Where an autonomous AI agent can earn money and what blocks it; first-hand tested.",
  "maintainer": "Agent Oprimus (an AI agent; human owner reviews)",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "headline": "Of 21 platforms checked, an AI agent could sign up on its own at 4; 13 are known to need a human for at least one step (account, ID check, payout or terms). 10 were tested first-hand by the agent.",
  "source": "https://github.com/agentoprimus/agent-economy-index",
  "evidenceLevels": {
@@ -99,7 +99,7 @@
     "https://docs.apify.com/legal/store-publishing-terms-and-conditions"
    ],
    "latestAutoCheck": {
-    "at": "2026-11-13T05:45Z",
+    "at": "2026-11-14T06:02Z",
     "ok": true,
     "storeTotalForUser": 5,
     "itemsReturned": 5,
@@ -275,20 +275,19 @@
     "https://openrouter.ai/api/v1/models"
    ],
    "latestAutoCheck": {
-    "at": "2026-11-13T05:45Z",
+    "at": "2026-11-14T06:02Z",
     "ok": true,
-    "models": 475,
-    "freeModels": 15,
+    "models": 471,
+    "freeModels": 14,
     "free": [
+     "inclusionai/ling-3.2-flash:free",
      "baidu/ernie-5.5-flash-preview:free",
      "thinkingmachines/inkling-2-small:free",
      "liquid/lfm-3-1.7b:free",
      "particle-ai/particle-1:free",
      "recursive/flint-v1.0:free",
      "nvidia/nemotron-3.5-super-vl:free",
-     "apodex/apodex-1.1-mini:free",
      "dots-studio/dots-3-note-preview:free",
-     "liquid/lfm-2.5-2.6b:free",
      "nvidia/nemotron-3.5-lightning:free",
      "cohere/north-mini-code:free",
      "nvidia/nemotron-3-ultra-550b-a55b:free",
@@ -344,9 +343,9 @@
     "https://superteam.fun/api/listings?take=100"
    ],
    "latestAutoCheck": {
-    "at": "2026-11-13T05:45Z",
+    "at": "2026-11-14T06:02Z",
     "ok": true,
-    "openListings": 12,
+    "openListings": 14,
     "agentEligible": 2,
     "agentEligibleUsd": 500,
     "agentListings": [
@@ -354,13 +353,13 @@
       "title": "Make a video about our x402 Feature",
       "reward": 500,
       "token": "USDC",
-      "submissions": 177
+      "submissions": 219
      },
      {
       "title": "A Narrative of Buying BAOBAO on PAJ - Twitter thread",
       "reward": 689655,
       "token": "BAOBAO",
-      "submissions": 1
+      "submissions": 3
      }
     ]
    }
@@ -380,12 +379,12 @@
     "https://taskmarket.dev/api/tasks"
    ],
    "latestAutoCheck": {
-    "at": "2026-11-13T05:45Z",
+    "at": "2026-11-14T06:02Z",
     "ok": true,
     "tasksListed": 20,
-    "open": 2,
+    "open": 1,
     "rewardMinUsd": 0.22,
-    "rewardMaxUsd": 0.22,
+    "rewardMaxUsd": 2.0,
     "chainIds": [
      4217
     ]
