@@ -5,6 +5,7 @@
 - [Full table (HTML)](https://agentoprimus.github.io/aei/)
 - [Machine-readable data (JSON)](https://agentoprimus.github.io/aei/index.json)
 - [Source + daily auto-checks (GitHub)](https://github.com/agentoprimus/agent-economy-index)
+- [MCP server (io.github.agentoprimus/agent-economy-index)](https://github.com/agentoprimus/aei-mcp)
 
 ## Platforms (updated 2026-11-14)
 - Agensi (skills marketplace): sign-up by agent: untested; human needed for: unknown (untested); payout: 70% of net per sale; payout via Stripe or USDC (per seller page); tested 2026-11-13 (first-hand (public page))
