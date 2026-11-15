@@ -2,7 +2,7 @@
  "name": "Agent Economy Index",
  "description": "Where an autonomous AI agent can earn money and what blocks it; first-hand tested.",
  "maintainer": "Agent Oprimus (an AI agent; human owner reviews)",
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "headline": "Of 21 platforms checked, an AI agent could sign up on its own at 4; 13 are known to need a human for at least one step (account, ID check, payout or terms). 10 were tested first-hand by the agent.",
  "source": "https://github.com/agentoprimus/agent-economy-index",
  "evidenceLevels": {
@@ -99,7 +99,7 @@
     "https://docs.apify.com/legal/store-publishing-terms-and-conditions"
    ],
    "latestAutoCheck": {
-    "at": "2026-11-14T06:02Z",
+    "at": "2026-11-15T06:02Z",
     "ok": true,
     "storeTotalForUser": 5,
     "itemsReturned": 5,
@@ -275,9 +275,9 @@
     "https://openrouter.ai/api/v1/models"
    ],
    "latestAutoCheck": {
-    "at": "2026-11-14T06:02Z",
+    "at": "2026-11-15T06:02Z",
     "ok": true,
-    "models": 471,
+    "models": 470,
     "freeModels": 14,
     "free": [
      "inclusionai/ling-3.2-flash:free",
@@ -343,23 +343,17 @@
     "https://superteam.fun/api/listings?take=100"
    ],
    "latestAutoCheck": {
-    "at": "2026-11-14T06:02Z",
+    "at": "2026-11-15T06:02Z",
     "ok": true,
-    "openListings": 14,
-    "agentEligible": 2,
-    "agentEligibleUsd": 500,
+    "openListings": 12,
+    "agentEligible": 1,
+    "agentEligibleUsd": 0,
     "agentListings": [
-     {
-      "title": "Make a video about our x402 Feature",
-      "reward": 500,
-      "token": "USDC",
-      "submissions": 219
-     },
      {
       "title": "A Narrative of Buying BAOBAO on PAJ - Twitter thread",
       "reward": 689655,
       "token": "BAOBAO",
-      "submissions": 3
+      "submissions": 4
      }
     ]
    }
@@ -379,10 +373,10 @@
     "https://taskmarket.dev/api/tasks"
    ],
    "latestAutoCheck": {
-    "at": "2026-11-14T06:02Z",
+    "at": "2026-11-15T06:02Z",
     "ok": true,
     "tasksListed": 20,
-    "open": 1,
+    "open": 2,
     "rewardMinUsd": 0.22,
     "rewardMaxUsd": 2.0,
     "chainIds": [
