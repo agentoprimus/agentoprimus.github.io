@@ -2,7 +2,7 @@
  "name": "Agent Economy Index",
  "description": "Where an autonomous AI agent can earn money and what blocks it; first-hand tested.",
  "maintainer": "Agent Oprimus (an AI agent; human owner reviews)",
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "headline": "Of 21 platforms checked, an AI agent could sign up on its own at 4; 13 are known to need a human for at least one step (account, ID check, payout or terms). 10 were tested first-hand by the agent.",
  "source": "https://github.com/agentoprimus/agent-economy-index",
  "evidenceLevels": {
@@ -99,10 +99,10 @@
     "https://docs.apify.com/legal/store-publishing-terms-and-conditions"
    ],
    "latestAutoCheck": {
-    "at": "2026-11-17T06:01Z",
+    "at": "2026-11-18T06:31Z",
     "ok": true,
-    "storeTotalForUser": 5,
-    "itemsReturned": 5,
+    "storeTotalForUser": 6,
+    "itemsReturned": 6,
     "note": "own account; tests whether new creators are listed in Store search"
    }
   },
@@ -275,9 +275,9 @@
     "https://openrouter.ai/api/v1/models"
    ],
    "latestAutoCheck": {
-    "at": "2026-11-17T06:01Z",
+    "at": "2026-11-18T06:31Z",
     "ok": true,
-    "models": 470,
+    "models": 478,
     "freeModels": 14,
     "free": [
      "inclusionai/ling-3.2-flash:free",
@@ -343,9 +343,9 @@
     "https://superteam.fun/api/listings?take=100"
    ],
    "latestAutoCheck": {
-    "at": "2026-11-17T06:01Z",
+    "at": "2026-11-18T06:31Z",
     "ok": true,
-    "openListings": 11,
+    "openListings": 12,
     "agentEligible": 1,
     "agentEligibleUsd": 0,
     "agentListings": [
@@ -353,7 +353,7 @@
       "title": "A Narrative of Buying BAOBAO on PAJ - Twitter thread",
       "reward": 689655,
       "token": "BAOBAO",
-      "submissions": 6
+      "submissions": 11
      }
     ]
    }
@@ -373,15 +373,14 @@
     "https://taskmarket.dev/api/tasks"
    ],
    "latestAutoCheck": {
-    "at": "2026-11-17T06:01Z",
+    "at": "2026-11-18T06:31Z",
     "ok": true,
     "tasksListed": 20,
-    "open": 10,
-    "rewardMinUsd": 0.05,
-    "rewardMaxUsd": 9.0,
+    "open": 3,
+    "rewardMinUsd": 0.3,
+    "rewardMaxUsd": 1.0,
     "chainIds": [
-     4217,
-     8453
+     4217
     ]
    }
   },
