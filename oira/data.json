@@ -27,7 +27,8 @@
    "parent_agency": "Department of Agriculture",
    "parent_acronym": "USDA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0581-ZA35",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0581-ZA35"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0581-ZA35",
+   "fr_documents": []
   },
   {
    "agency_code": "0910",
@@ -47,7 +48,8 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0910-ZE09",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE09"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE09",
+   "fr_documents": []
   },
   {
    "agency_code": "0910",
@@ -67,7 +69,8 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0910-ZE11",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE11"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE11",
+   "fr_documents": []
   },
   {
    "agency_code": "0583",
@@ -87,7 +90,15 @@
    "parent_agency": "Department of Agriculture",
    "parent_acronym": "USDA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0583-AE02",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0583-AE02"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0583-AE02",
+   "fr_documents": [
+    {
+     "title": "Maximum Line Speed Under the New Swine Slaughter Inspection System (NSIS)",
+     "type": "Proposed Rule",
+     "publication_date": "2026-02-19",
+     "html_url": "https://www.federalregister.gov/documents/2026/02/19/2026-03228/maximum-line-speed-under-the-new-swine-slaughter-inspection-system-nsis"
+    }
+   ]
   },
   {
    "agency_code": "0584",
@@ -107,7 +118,8 @@
    "parent_agency": "Department of Agriculture",
    "parent_acronym": "USDA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0584-AF31",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0584-AF31"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0584-AF31",
+   "fr_documents": []
   },
   {
    "agency_code": "1018",
@@ -127,7 +139,8 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-ZA20",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-ZA20"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-ZA20",
+   "fr_documents": []
   },
   {
    "agency_code": "1090",
@@ -147,7 +160,8 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1090-ZA03",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1090-ZA03"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1090-ZA03",
+   "fr_documents": []
   },
   {
    "agency_code": "2050",
@@ -167,7 +181,8 @@
    "parent_agency": "Environmental Protection Agency",
    "parent_acronym": "EPA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2050-ZA20",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2050-ZA20"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2050-ZA20",
+   "fr_documents": []
   },
   {
    "agency_code": "2060",
@@ -187,7 +202,15 @@
    "parent_agency": "Environmental Protection Agency",
    "parent_acronym": "EPA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2060-AW63",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AW63"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AW63",
+   "fr_documents": [
+    {
+     "title": "Interstate Transport Plan Review for the 2015 Ozone NAAQS",
+     "type": "Proposed Rule",
+     "publication_date": "2026-01-30",
+     "html_url": "https://www.federalregister.gov/documents/2026/01/30/2026-01844/interstate-transport-plan-review-for-the-2015-ozone-naaqs"
+    }
+   ]
   },
   {
    "agency_code": "3147",
@@ -207,7 +230,8 @@
    "parent_agency": "National Gallery of Art",
    "parent_acronym": "NGA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3147-AA30",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3147-AA30"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3147-AA30",
+   "fr_documents": []
   },
   {
    "agency_code": "9000",
@@ -225,7 +249,8 @@
    "agency": "DOD/GSA/NASA (FAR)",
    "agency_acronym": "FAR",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=9000-AO81",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO81"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO81",
+   "fr_documents": []
   },
   {
    "agency_code": "9000",
@@ -243,7 +268,8 @@
    "agency": "DOD/GSA/NASA (FAR)",
    "agency_acronym": "FAR",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=9000-AO82",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO82"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO82",
+   "fr_documents": []
   },
   {
    "agency_code": "9000",
@@ -261,7 +287,8 @@
    "agency": "DOD/GSA/NASA (FAR)",
    "agency_acronym": "FAR",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=9000-AO85",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO85"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO85",
+   "fr_documents": []
   },
   {
    "agency_code": "9000",
@@ -279,7 +306,8 @@
    "agency": "DOD/GSA/NASA (FAR)",
    "agency_acronym": "FAR",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=9000-AO89",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO89"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO89",
+   "fr_documents": []
   },
   {
    "agency_code": "0648",
@@ -299,7 +327,21 @@
    "parent_agency": "Department of Commerce",
    "parent_acronym": "DOC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0648-BO38",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0648-BO38"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0648-BO38",
+   "fr_documents": [
+    {
+     "title": "Fisheries of the Northeastern United States; Omnibus Management Flexibility Amendment to New England Fishery Management Council Fishery Management Plans",
+     "type": "Proposed Rule",
+     "publication_date": "2026-07-08",
+     "html_url": "https://www.federalregister.gov/documents/2026/07/08/2026-13809/fisheries-of-the-northeastern-united-states-omnibus-management-flexibility-amendment-to-new-england"
+    },
+    {
+     "title": "Fisheries of the Northeastern United States; Omnibus Management Flexibility Amendment to New England Fishery Management Council Fishery Management Plans",
+     "type": "Proposed Rule",
+     "publication_date": "2026-05-14",
+     "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09617/fisheries-of-the-northeastern-united-states-omnibus-management-flexibility-amendment-to-new-england"
+    }
+   ]
   },
   {
    "agency_code": "0938",
@@ -319,7 +361,8 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0938-ZC09",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0938-ZC09"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0938-ZC09",
+   "fr_documents": []
   },
   {
    "agency_code": "1140",
@@ -339,7 +382,8 @@
    "parent_agency": "Department of Justice",
    "parent_acronym": "DOJ",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1140-ZA02",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1140-ZA02"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1140-ZA02",
+   "fr_documents": []
   },
   {
    "agency_code": "1205",
@@ -359,7 +403,8 @@
    "parent_agency": "Department of Labor",
    "parent_acronym": "DOL",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1205-AC33",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1205-AC33"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1205-AC33",
+   "fr_documents": []
   },
   {
    "agency_code": "3038",
@@ -377,7 +422,21 @@
    "agency": "Commodity Futures Trading Commission",
    "agency_acronym": "CFTC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3038-AF65",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3038-AF65"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3038-AF65",
+   "fr_documents": [
+    {
+     "title": "Prediction Markets; Public Interest Determinations",
+     "type": "Proposed Rule",
+     "publication_date": "2026-06-12",
+     "html_url": "https://www.federalregister.gov/documents/2026/06/12/2026-11854/prediction-markets-public-interest-determinations"
+    },
+    {
+     "title": "Prediction Markets",
+     "type": "Proposed Rule",
+     "publication_date": "2026-03-16",
+     "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05105/prediction-markets"
+    }
+   ]
   },
   {
    "agency_code": "3060",
@@ -395,7 +454,8 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AL12",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AL12"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AL12",
+   "fr_documents": []
   },
   {
    "agency_code": "3060",
@@ -413,7 +473,8 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AM36",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM36"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM36",
+   "fr_documents": []
   },
   {
    "agency_code": "3084",
@@ -431,7 +492,8 @@
    "agency": "Federal Trade Commission",
    "agency_acronym": "FTC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3084-ZA04",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3084-ZA04"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3084-ZA04",
+   "fr_documents": []
   },
   {
    "agency_code": "1117",
@@ -451,7 +513,8 @@
    "parent_agency": "Department of Justice",
    "parent_acronym": "DOJ",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1117-ZA16",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1117-ZA16"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1117-ZA16",
+   "fr_documents": []
   },
   {
    "agency_code": "1235",
@@ -471,7 +534,15 @@
    "parent_agency": "Department of Labor",
    "parent_acronym": "DOL",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1235-AA51",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1235-AA51"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1235-AA51",
+   "fr_documents": [
+    {
+     "title": "Application of the Fair Labor Standards Act to Domestic Service",
+     "type": "Proposed Rule",
+     "publication_date": "2025-07-02",
+     "html_url": "https://www.federalregister.gov/documents/2025/07/02/2025-12316/application-of-the-fair-labor-standards-act-to-domestic-service"
+    }
+   ]
   },
   {
    "agency_code": "1845",
@@ -491,7 +562,8 @@
    "parent_agency": "Department of Education",
    "parent_acronym": "ED",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1845-ZA00",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1845-ZA00"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1845-ZA00",
+   "fr_documents": []
   },
   {
    "agency_code": "2060",
@@ -511,7 +583,15 @@
    "parent_agency": "Environmental Protection Agency",
    "parent_acronym": "EPA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2060-AW83",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AW83"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AW83",
+   "fr_documents": [
+    {
+     "title": "Amendments and Nonconformance Penalties for Model Year 2027 and Later Heavy-Duty Highway Engines and Amendments to Inducement Provisions for SCR-Equipped Diesel Engines",
+     "type": "Proposed Rule",
+     "publication_date": "2026-07-14",
+     "html_url": "https://www.federalregister.gov/documents/2026/07/14/2026-14112/amendments-and-nonconformance-penalties-for-model-year-2027-and-later-heavy-duty-highway-engines-and"
+    }
+   ]
   },
   {
    "agency_code": "3150",
@@ -531,7 +611,8 @@
    "parent_agency": "National Gallery of Art",
    "parent_acronym": "NGA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3150-ZA35",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3150-ZA35"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3150-ZA35",
+   "fr_documents": []
   },
   {
    "agency_code": "3235",
@@ -551,7 +632,8 @@
    "parent_agency": "Other Independent Agencies",
    "parent_acronym": "OTHINDAG",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3235-AN72",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN72"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN72",
+   "fr_documents": []
   },
   {
    "agency_code": "3235",
@@ -571,7 +653,8 @@
    "parent_agency": "Other Independent Agencies",
    "parent_acronym": "OTHINDAG",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3235-AN73",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN73"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN73",
+   "fr_documents": []
   },
   {
    "agency_code": "0648",
@@ -591,7 +674,15 @@
    "parent_agency": "Department of Commerce",
    "parent_acronym": "DOC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0648-BN38",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0648-BN38"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0648-BN38",
+   "fr_documents": [
+    {
+     "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Sea Ice Road and Trail Construction, Use, and Maintenance Activities Along the Beaufort Sea Coast in Alaska",
+     "type": "Proposed Rule",
+     "publication_date": "2026-02-02",
+     "html_url": "https://www.federalregister.gov/documents/2026/02/02/2026-02048/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-sea"
+    }
+   ]
   },
   {
    "agency_code": "0910",
@@ -611,7 +702,8 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0910-ZE10",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE10"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE10",
+   "fr_documents": []
   },
   {
    "agency_code": "1004",
@@ -631,7 +723,8 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1004-ZB08",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1004-ZB08"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1004-ZB08",
+   "fr_documents": []
   },
   {
    "agency_code": "1506",
@@ -651,7 +744,15 @@
    "parent_agency": "Department of the Treasury",
    "parent_acronym": "TREAS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1506-AB72",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1506-AB72"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1506-AB72",
+   "fr_documents": [
+    {
+     "title": "Anti-Money Laundering and Countering the Financing of Terrorism Programs",
+     "type": "Proposed Rule",
+     "publication_date": "2026-04-10",
+     "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-07033/anti-money-laundering-and-countering-the-financing-of-terrorism-programs"
+    }
+   ]
   },
   {
    "agency_code": "1506",
@@ -671,7 +772,15 @@
    "parent_agency": "Department of the Treasury",
    "parent_acronym": "TREAS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1506-AB73",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1506-AB73"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1506-AB73",
+   "fr_documents": [
+    {
+     "title": "Permitted Payment Stablecoin Issuer Anti-Money Laundering/Countering the Financing of Terrorism Program and Sanctions Compliance Program Requirements",
+     "type": "Proposed Rule",
+     "publication_date": "2026-04-10",
+     "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-06963/permitted-payment-stablecoin-issuer-anti-money-launderingcountering-the-financing-of-terrorism"
+    }
+   ]
   },
   {
    "agency_code": "2050",
@@ -691,7 +800,8 @@
    "parent_agency": "Environmental Protection Agency",
    "parent_acronym": "EPA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2050-AH52",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2050-AH52"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2050-AH52",
+   "fr_documents": []
   },
   {
    "agency_code": "2060",
@@ -711,7 +821,8 @@
    "parent_agency": "Environmental Protection Agency",
    "parent_acronym": "EPA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2060-AW91",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AW91"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AW91",
+   "fr_documents": []
   },
   {
    "agency_code": "3064",
@@ -729,7 +840,15 @@
    "agency": "Federal Deposit Insurance Corporation",
    "agency_acronym": "FDIC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3064-AG19",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3064-AG19"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3064-AG19",
+   "fr_documents": [
+    {
+     "title": "GENIUS Act Requirements and Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers and Insured Depository Institutions",
+     "type": "Proposed Rule",
+     "publication_date": "2026-04-10",
+     "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-06974/genius-act-requirements-and-standards-for-fdic-supervised-permitted-payment-stablecoin-issuers-and"
+    }
+   ]
   },
   {
    "agency_code": "4030",
@@ -747,7 +866,8 @@
    "agency": "Financial Stability Oversight Council",
    "agency_acronym": "FSOC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=4030-ZA02",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=4030-ZA02"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=4030-ZA02",
+   "fr_documents": []
   }
  ],
  "concluded": [
@@ -778,7 +898,16 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0910-AG30",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-AG30"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-AG30",
+   "fr_documents": [
+    {
+     "title": "Sunlamp Products; Proposed Amendment to Performance Standard",
+     "type": "Proposed Rule",
+     "publication_date": "2015-12-22",
+     "html_url": "https://www.federalregister.gov/documents/2015/12/22/2015-32023/sunlamp-products-proposed-amendment-to-performance-standard"
+    }
+   ],
+   "published_after_review": null
   },
   {
    "agency_code": "0910",
@@ -807,7 +936,9 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0910-ZE07",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE07"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE07",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "0925",
@@ -836,7 +967,9 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0925-ZA27",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0925-ZA27"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0925-ZA27",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "0970",
@@ -865,7 +998,9 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0970-AD45",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0970-AD45"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0970-AD45",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "1018",
@@ -894,7 +1029,9 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BH31",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH31"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH31",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "1018",
@@ -923,7 +1060,9 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BH36",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH36"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH36",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "1018",
@@ -952,7 +1091,9 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BH95",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH95"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH95",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "1093",
@@ -981,7 +1122,9 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1093-AA31",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1093-AA31"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1093-AA31",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3124",
@@ -1010,7 +1153,9 @@
    "parent_agency": "National Gallery of Art",
    "parent_acronym": "NGA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3124-AA36",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3124-AA36"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3124-AA36",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "0920",
@@ -1039,7 +1184,27 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0920-AA88",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0920-AA88"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0920-AA88",
+   "fr_documents": [
+    {
+     "title": "Control of Communicable Diseases; Foreign Quarantine",
+     "type": "Rule",
+     "publication_date": "2026-11-25",
+     "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23990/control-of-communicable-diseases-foreign-quarantine"
+    },
+    {
+     "title": "Control of Communicable Diseases; Foreign Quarantine",
+     "type": "Rule",
+     "publication_date": "2026-05-27",
+     "html_url": "https://www.federalregister.gov/documents/2026/05/27/2026-10543/control-of-communicable-diseases-foreign-quarantine"
+    }
+   ],
+   "published_after_review": {
+    "title": "Control of Communicable Diseases; Foreign Quarantine",
+    "type": "Rule",
+    "publication_date": "2026-11-25",
+    "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23990/control-of-communicable-diseases-foreign-quarantine"
+   }
   },
   {
    "agency_code": "1018",
@@ -1068,7 +1233,9 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BH43",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH43"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH43",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "2060",
@@ -1097,7 +1264,16 @@
    "parent_agency": "Environmental Protection Agency",
    "parent_acronym": "EPA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2060-AX04",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AX04"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AX04",
+   "fr_documents": [
+    {
+     "title": "Phasedown of Hydrofluorocarbons: Excluding Road and Intermodal Container Transport Refrigeration Units From the Hydrofluorocarbon Leak Repair Requirements",
+     "type": "Proposed Rule",
+     "publication_date": "2026-05-26",
+     "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10388/phasedown-of-hydrofluorocarbons-excluding-road-and-intermodal-container-transport-refrigeration"
+    }
+   ],
+   "published_after_review": null
   },
   {
    "agency_code": "2140",
@@ -1126,7 +1302,9 @@
    "parent_agency": "Department of Transportation",
    "parent_acronym": "DOT",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2140-AB63",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2140-AB63"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2140-AB63",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3038",
@@ -1153,7 +1331,16 @@
    "agency": "Commodity Futures Trading Commission",
    "agency_acronym": "CFTC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3038-AF73",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3038-AF73"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3038-AF73",
+   "fr_documents": [
+    {
+     "title": "Data Reporting Requirements for Certain Event Contracts",
+     "type": "Proposed Rule",
+     "publication_date": "2026-07-01",
+     "html_url": "https://www.federalregister.gov/documents/2026/07/01/2026-13239/data-reporting-requirements-for-certain-event-contracts"
+    }
+   ],
+   "published_after_review": null
   },
   {
    "agency_code": "3041",
@@ -1180,7 +1367,9 @@
    "agency": "Consumer Product Safety Commission",
    "agency_acronym": "CPSC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3041-ZA01",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3041-ZA01"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3041-ZA01",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3060",
@@ -1207,7 +1396,9 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AM16",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM16"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM16",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3060",
@@ -1234,7 +1425,9 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AM26",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM26"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM26",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3060",
@@ -1261,7 +1454,9 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AM54",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM54"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM54",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3060",
@@ -1288,7 +1483,9 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AM55",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM55"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM55",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "0910",
@@ -1317,7 +1514,9 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0910-ZD84",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZD84"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZD84",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "0925",
@@ -1346,7 +1545,9 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0925-ZA29",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0925-ZA29"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0925-ZA29",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "0938",
@@ -1375,7 +1576,33 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0938-AV88",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0938-AV88"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0938-AV88",
+   "fr_documents": [
+    {
+     "title": "Medicare Program; Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Programs of All-Inclusive Care for the Elderly",
+     "type": "Proposed Rule",
+     "publication_date": "2026-11-25",
+     "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program"
+    },
+    {
+     "title": "Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026; Correction",
+     "type": "Proposed Rule",
+     "publication_date": "2026-11-09",
+     "html_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22807/medicare-program-implementation-of-sections-6219-6220-and-6224-of-the-consolidated-appropriations"
+    },
+    {
+     "title": "Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026",
+     "type": "Proposed Rule",
+     "publication_date": "2026-10-20",
+     "html_url": "https://www.federalregister.gov/documents/2026/10/20/2026-21420/medicare-program-implementation-of-sections-6219-6220-and-6224-of-the-consolidated-appropriations"
+    }
+   ],
+   "published_after_review": {
+    "title": "Medicare Program; Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Programs of All-Inclusive Care for the Elderly",
+    "type": "Proposed Rule",
+    "publication_date": "2026-11-25",
+    "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program"
+   }
   },
   {
    "agency_code": "1018",
@@ -1404,7 +1631,9 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BH07",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH07"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH07",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "1210",
@@ -1433,7 +1662,21 @@
    "parent_agency": "Department of Labor",
    "parent_acronym": "DOL",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1210-AC37",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1210-AC37"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1210-AC37",
+   "fr_documents": [
+    {
+     "title": "Loyalty and the Exclusive Purpose Rule in Selecting Plan Investments and Exercising Shareholder Rights",
+     "type": "Proposed Rule",
+     "publication_date": "2026-11-24",
+     "html_url": "https://www.federalregister.gov/documents/2026/11/24/2026-23936/loyalty-and-the-exclusive-purpose-rule-in-selecting-plan-investments-and-exercising-shareholder"
+    }
+   ],
+   "published_after_review": {
+    "title": "Loyalty and the Exclusive Purpose Rule in Selecting Plan Investments and Exercising Shareholder Rights",
+    "type": "Proposed Rule",
+    "publication_date": "2026-11-24",
+    "html_url": "https://www.federalregister.gov/documents/2026/11/24/2026-23936/loyalty-and-the-exclusive-purpose-rule-in-selecting-plan-investments-and-exercising-shareholder"
+   }
   },
   {
    "agency_code": "1557",
@@ -1462,7 +1705,9 @@
    "parent_agency": "Department of the Treasury",
    "parent_acronym": "TREAS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1557-ZA19",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1557-ZA19"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1557-ZA19",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "1660",
@@ -1491,7 +1736,9 @@
    "parent_agency": "Department of Homeland Security",
    "parent_acronym": "DHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1660-ZA37",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1660-ZA37"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1660-ZA37",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3060",
@@ -1518,7 +1765,9 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AK62",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AK62"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AK62",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3060",
@@ -1545,7 +1794,9 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AL94",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AL94"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AL94",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3060",
@@ -1572,7 +1823,9 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AM28",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM28"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM28",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3064",
@@ -1599,7 +1852,9 @@
    "agency": "Federal Deposit Insurance Corporation",
    "agency_acronym": "FDIC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3064-ZA57",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3064-ZA57"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3064-ZA57",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "1018",
@@ -1628,7 +1883,21 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BH42",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH42"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH42",
+   "fr_documents": [
+    {
+     "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for Peppered Shiner",
+     "type": "Proposed Rule",
+     "publication_date": "2026-11-25",
+     "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23968/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-peppered-shiner"
+    }
+   ],
+   "published_after_review": {
+    "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for Peppered Shiner",
+    "type": "Proposed Rule",
+    "publication_date": "2026-11-25",
+    "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23968/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-peppered-shiner"
+   }
   },
   {
    "agency_code": "1018",
@@ -1657,7 +1926,21 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BI86",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BI86"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BI86",
+   "fr_documents": [
+    {
+     "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Rio Grande Shiner",
+     "type": "Proposed Rule",
+     "publication_date": "2026-11-25",
+     "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23969/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-rio-grande-shiner"
+    }
+   ],
+   "published_after_review": {
+    "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Rio Grande Shiner",
+    "type": "Proposed Rule",
+    "publication_date": "2026-11-25",
+    "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23969/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-rio-grande-shiner"
+   }
   },
   {
    "agency_code": "2700",
@@ -1684,7 +1967,9 @@
    "agency": "National Aeronautics and Space Administration",
    "agency_acronym": "NASA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2700-AE91",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2700-AE91"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2700-AE91",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3235",
@@ -1713,7 +1998,27 @@
    "parent_agency": "Other Independent Agencies",
    "parent_acronym": "OTHINDAG",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3235-AN54",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN54"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN54",
+   "fr_documents": [
+    {
+     "title": "Restructuring the Governance and Funding Model of the Consolidated Audit Trail",
+     "type": "Proposed Rule",
+     "publication_date": "2026-11-24",
+     "html_url": "https://www.federalregister.gov/documents/2026/11/24/2026-23951/restructuring-the-governance-and-funding-model-of-the-consolidated-audit-trail"
+    },
+    {
+     "title": "Concept Release on Consolidated Audit Trail and Other Audit Trails and Data Sources",
+     "type": "Proposed Rule",
+     "publication_date": "2026-04-20",
+     "html_url": "https://www.federalregister.gov/documents/2026/04/20/2026-07651/concept-release-on-consolidated-audit-trail-and-other-audit-trails-and-data-sources"
+    }
+   ],
+   "published_after_review": {
+    "title": "Restructuring the Governance and Funding Model of the Consolidated Audit Trail",
+    "type": "Proposed Rule",
+    "publication_date": "2026-11-24",
+    "html_url": "https://www.federalregister.gov/documents/2026/11/24/2026-23951/restructuring-the-governance-and-funding-model-of-the-consolidated-audit-trail"
+   }
   }
  ],
  "concluded_30d": [
@@ -1744,7 +2049,16 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0910-AG30",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-AG30"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-AG30",
+   "fr_documents": [
+    {
+     "title": "Sunlamp Products; Proposed Amendment to Performance Standard",
+     "type": "Proposed Rule",
+     "publication_date": "2015-12-22",
+     "html_url": "https://www.federalregister.gov/documents/2015/12/22/2015-32023/sunlamp-products-proposed-amendment-to-performance-standard"
+    }
+   ],
+   "published_after_review": null
   },
   {
    "agency_code": "0910",
@@ -1773,7 +2087,9 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0910-ZE07",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE07"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE07",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "0925",
@@ -1802,7 +2118,9 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0925-ZA27",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0925-ZA27"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0925-ZA27",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "0970",
@@ -1831,7 +2149,9 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0970-AD45",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0970-AD45"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0970-AD45",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "1018",
@@ -1860,7 +2180,9 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BH31",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH31"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH31",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "1018",
@@ -1889,7 +2211,9 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BH36",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH36"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH36",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "1018",
@@ -1918,7 +2242,9 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BH95",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH95"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH95",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "1093",
@@ -1947,7 +2273,9 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1093-AA31",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1093-AA31"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1093-AA31",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3124",
@@ -1976,7 +2304,9 @@
    "parent_agency": "National Gallery of Art",
    "parent_acronym": "NGA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3124-AA36",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3124-AA36"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3124-AA36",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "0920",
@@ -2005,7 +2335,27 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0920-AA88",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0920-AA88"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0920-AA88",
+   "fr_documents": [
+    {
+     "title": "Control of Communicable Diseases; Foreign Quarantine",
+     "type": "Rule",
+     "publication_date": "2026-11-25",
+     "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23990/control-of-communicable-diseases-foreign-quarantine"
+    },
+    {
+     "title": "Control of Communicable Diseases; Foreign Quarantine",
+     "type": "Rule",
+     "publication_date": "2026-05-27",
+     "html_url": "https://www.federalregister.gov/documents/2026/05/27/2026-10543/control-of-communicable-diseases-foreign-quarantine"
+    }
+   ],
+   "published_after_review": {
+    "title": "Control of Communicable Diseases; Foreign Quarantine",
+    "type": "Rule",
+    "publication_date": "2026-11-25",
+    "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23990/control-of-communicable-diseases-foreign-quarantine"
+   }
   },
   {
    "agency_code": "1018",
@@ -2034,7 +2384,9 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BH43",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH43"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH43",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "2060",
@@ -2063,7 +2415,16 @@
    "parent_agency": "Environmental Protection Agency",
    "parent_acronym": "EPA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2060-AX04",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AX04"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AX04",
+   "fr_documents": [
+    {
+     "title": "Phasedown of Hydrofluorocarbons: Excluding Road and Intermodal Container Transport Refrigeration Units From the Hydrofluorocarbon Leak Repair Requirements",
+     "type": "Proposed Rule",
+     "publication_date": "2026-05-26",
+     "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10388/phasedown-of-hydrofluorocarbons-excluding-road-and-intermodal-container-transport-refrigeration"
+    }
+   ],
+   "published_after_review": null
   },
   {
    "agency_code": "2140",
@@ -2092,7 +2453,9 @@
    "parent_agency": "Department of Transportation",
    "parent_acronym": "DOT",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2140-AB63",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2140-AB63"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2140-AB63",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3038",
@@ -2119,7 +2482,16 @@
    "agency": "Commodity Futures Trading Commission",
    "agency_acronym": "CFTC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3038-AF73",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3038-AF73"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3038-AF73",
+   "fr_documents": [
+    {
+     "title": "Data Reporting Requirements for Certain Event Contracts",
+     "type": "Proposed Rule",
+     "publication_date": "2026-07-01",
+     "html_url": "https://www.federalregister.gov/documents/2026/07/01/2026-13239/data-reporting-requirements-for-certain-event-contracts"
+    }
+   ],
+   "published_after_review": null
   },
   {
    "agency_code": "3041",
@@ -2146,7 +2518,9 @@
    "agency": "Consumer Product Safety Commission",
    "agency_acronym": "CPSC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3041-ZA01",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3041-ZA01"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3041-ZA01",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3060",
@@ -2173,7 +2547,9 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AM16",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM16"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM16",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3060",
@@ -2200,7 +2576,9 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AM26",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM26"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM26",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3060",
@@ -2227,7 +2605,9 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AM54",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM54"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM54",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3060",
@@ -2254,7 +2634,9 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AM55",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM55"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM55",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "0910",
@@ -2283,7 +2665,9 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0910-ZD84",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZD84"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZD84",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "0925",
@@ -2312,7 +2696,9 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0925-ZA29",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0925-ZA29"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0925-ZA29",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "0938",
@@ -2341,7 +2727,33 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0938-AV88",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0938-AV88"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0938-AV88",
+   "fr_documents": [
+    {
+     "title": "Medicare Program; Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Programs of All-Inclusive Care for the Elderly",
+     "type": "Proposed Rule",
+     "publication_date": "2026-11-25",
+     "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program"
+    },
+    {
+     "title": "Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026; Correction",
+     "type": "Proposed Rule",
+     "publication_date": "2026-11-09",
+     "html_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22807/medicare-program-implementation-of-sections-6219-6220-and-6224-of-the-consolidated-appropriations"
+    },
+    {
+     "title": "Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026",
+     "type": "Proposed Rule",
+     "publication_date": "2026-10-20",
+     "html_url": "https://www.federalregister.gov/documents/2026/10/20/2026-21420/medicare-program-implementation-of-sections-6219-6220-and-6224-of-the-consolidated-appropriations"
+    }
+   ],
+   "published_after_review": {
+    "title": "Medicare Program; Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Programs of All-Inclusive Care for the Elderly",
+    "type": "Proposed Rule",
+    "publication_date": "2026-11-25",
+    "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program"
+   }
   },
   {
    "agency_code": "1018",
@@ -2370,7 +2782,9 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BH07",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH07"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH07",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "1210",
@@ -2399,7 +2813,21 @@
    "parent_agency": "Department of Labor",
    "parent_acronym": "DOL",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1210-AC37",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1210-AC37"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1210-AC37",
+   "fr_documents": [
+    {
+     "title": "Loyalty and the Exclusive Purpose Rule in Selecting Plan Investments and Exercising Shareholder Rights",
+     "type": "Proposed Rule",
+     "publication_date": "2026-11-24",
+     "html_url": "https://www.federalregister.gov/documents/2026/11/24/2026-23936/loyalty-and-the-exclusive-purpose-rule-in-selecting-plan-investments-and-exercising-shareholder"
+    }
+   ],
+   "published_after_review": {
+    "title": "Loyalty and the Exclusive Purpose Rule in Selecting Plan Investments and Exercising Shareholder Rights",
+    "type": "Proposed Rule",
+    "publication_date": "2026-11-24",
+    "html_url": "https://www.federalregister.gov/documents/2026/11/24/2026-23936/loyalty-and-the-exclusive-purpose-rule-in-selecting-plan-investments-and-exercising-shareholder"
+   }
   },
   {
    "agency_code": "1557",
@@ -2428,7 +2856,9 @@
    "parent_agency": "Department of the Treasury",
    "parent_acronym": "TREAS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1557-ZA19",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1557-ZA19"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1557-ZA19",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "1660",
@@ -2457,7 +2887,9 @@
    "parent_agency": "Department of Homeland Security",
    "parent_acronym": "DHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1660-ZA37",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1660-ZA37"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1660-ZA37",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3060",
@@ -2484,7 +2916,9 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AK62",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AK62"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AK62",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3060",
@@ -2511,7 +2945,9 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AL94",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AL94"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AL94",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3060",
@@ -2538,7 +2974,9 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AM28",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM28"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM28",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3064",
@@ -2565,7 +3003,9 @@
    "agency": "Federal Deposit Insurance Corporation",
    "agency_acronym": "FDIC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3064-ZA57",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3064-ZA57"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3064-ZA57",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "1018",
@@ -2594,7 +3034,21 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BH42",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH42"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH42",
+   "fr_documents": [
+    {
+     "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for Peppered Shiner",
+     "type": "Proposed Rule",
+     "publication_date": "2026-11-25",
+     "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23968/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-peppered-shiner"
+    }
+   ],
+   "published_after_review": {
+    "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for Peppered Shiner",
+    "type": "Proposed Rule",
+    "publication_date": "2026-11-25",
+    "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23968/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-peppered-shiner"
+   }
   },
   {
    "agency_code": "1018",
@@ -2623,7 +3077,21 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BI86",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BI86"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BI86",
+   "fr_documents": [
+    {
+     "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Rio Grande Shiner",
+     "type": "Proposed Rule",
+     "publication_date": "2026-11-25",
+     "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23969/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-rio-grande-shiner"
+    }
+   ],
+   "published_after_review": {
+    "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Rio Grande Shiner",
+    "type": "Proposed Rule",
+    "publication_date": "2026-11-25",
+    "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23969/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-rio-grande-shiner"
+   }
   },
   {
    "agency_code": "2700",
@@ -2650,7 +3118,9 @@
    "agency": "National Aeronautics and Space Administration",
    "agency_acronym": "NASA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2700-AE91",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2700-AE91"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2700-AE91",
+   "fr_documents": [],
+   "published_after_review": null
   },
   {
    "agency_code": "3235",
@@ -2679,7 +3149,27 @@
    "parent_agency": "Other Independent Agencies",
    "parent_acronym": "OTHINDAG",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3235-AN54",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN54"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN54",
+   "fr_documents": [
+    {
+     "title": "Restructuring the Governance and Funding Model of the Consolidated Audit Trail",
+     "type": "Proposed Rule",
+     "publication_date": "2026-11-24",
+     "html_url": "https://www.federalregister.gov/documents/2026/11/24/2026-23951/restructuring-the-governance-and-funding-model-of-the-consolidated-audit-trail"
+    },
+    {
+     "title": "Concept Release on Consolidated Audit Trail and Other Audit Trails and Data Sources",
+     "type": "Proposed Rule",
+     "publication_date": "2026-04-20",
+     "html_url": "https://www.federalregister.gov/documents/2026/04/20/2026-07651/concept-release-on-consolidated-audit-trail-and-other-audit-trails-and-data-sources"
+    }
+   ],
+   "published_after_review": {
+    "title": "Restructuring the Governance and Funding Model of the Consolidated Audit Trail",
+    "type": "Proposed Rule",
+    "publication_date": "2026-11-24",
+    "html_url": "https://www.federalregister.gov/documents/2026/11/24/2026-23951/restructuring-the-governance-and-funding-model-of-the-consolidated-audit-trail"
+   }
   },
   {
    "agency_code": "0938",
@@ -4746,7 +5236,8 @@
    "parent_agency": "Department of Agriculture",
    "parent_acronym": "USDA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0581-ZA35",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0581-ZA35"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0581-ZA35",
+   "fr_documents": []
   },
   {
    "agency_code": "0910",
@@ -4766,7 +5257,8 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0910-ZE09",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE09"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE09",
+   "fr_documents": []
   },
   {
    "agency_code": "0910",
@@ -4786,7 +5278,8 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0910-ZE11",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE11"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE11",
+   "fr_documents": []
   },
   {
    "agency_code": "0583",
@@ -4806,7 +5299,15 @@
    "parent_agency": "Department of Agriculture",
    "parent_acronym": "USDA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0583-AE02",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0583-AE02"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0583-AE02",
+   "fr_documents": [
+    {
+     "title": "Maximum Line Speed Under the New Swine Slaughter Inspection System (NSIS)",
+     "type": "Proposed Rule",
+     "publication_date": "2026-02-19",
+     "html_url": "https://www.federalregister.gov/documents/2026/02/19/2026-03228/maximum-line-speed-under-the-new-swine-slaughter-inspection-system-nsis"
+    }
+   ]
   },
   {
    "agency_code": "0584",
@@ -4826,7 +5327,8 @@
    "parent_agency": "Department of Agriculture",
    "parent_acronym": "USDA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0584-AF31",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0584-AF31"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0584-AF31",
+   "fr_documents": []
   },
   {
    "agency_code": "1018",
@@ -4846,7 +5348,8 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-ZA20",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-ZA20"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-ZA20",
+   "fr_documents": []
   },
   {
    "agency_code": "1090",
@@ -4866,7 +5369,8 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1090-ZA03",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1090-ZA03"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1090-ZA03",
+   "fr_documents": []
   },
   {
    "agency_code": "2050",
@@ -4886,7 +5390,8 @@
    "parent_agency": "Environmental Protection Agency",
    "parent_acronym": "EPA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2050-ZA20",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2050-ZA20"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2050-ZA20",
+   "fr_documents": []
   },
   {
    "agency_code": "2060",
@@ -4906,7 +5411,15 @@
    "parent_agency": "Environmental Protection Agency",
    "parent_acronym": "EPA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2060-AW63",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AW63"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AW63",
+   "fr_documents": [
+    {
+     "title": "Interstate Transport Plan Review for the 2015 Ozone NAAQS",
+     "type": "Proposed Rule",
+     "publication_date": "2026-01-30",
+     "html_url": "https://www.federalregister.gov/documents/2026/01/30/2026-01844/interstate-transport-plan-review-for-the-2015-ozone-naaqs"
+    }
+   ]
   },
   {
    "agency_code": "3147",
@@ -4926,7 +5439,8 @@
    "parent_agency": "National Gallery of Art",
    "parent_acronym": "NGA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3147-AA30",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3147-AA30"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3147-AA30",
+   "fr_documents": []
   },
   {
    "agency_code": "9000",
@@ -4944,7 +5458,8 @@
    "agency": "DOD/GSA/NASA (FAR)",
    "agency_acronym": "FAR",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=9000-AO81",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO81"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO81",
+   "fr_documents": []
   },
   {
    "agency_code": "9000",
@@ -4962,7 +5477,8 @@
    "agency": "DOD/GSA/NASA (FAR)",
    "agency_acronym": "FAR",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=9000-AO82",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO82"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO82",
+   "fr_documents": []
   },
   {
    "agency_code": "9000",
@@ -4980,7 +5496,8 @@
    "agency": "DOD/GSA/NASA (FAR)",
    "agency_acronym": "FAR",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=9000-AO85",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO85"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO85",
+   "fr_documents": []
   },
   {
    "agency_code": "9000",
@@ -4998,7 +5515,8 @@
    "agency": "DOD/GSA/NASA (FAR)",
    "agency_acronym": "FAR",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=9000-AO89",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO89"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=9000-AO89",
+   "fr_documents": []
   },
   {
    "agency_code": "0648",
@@ -5018,7 +5536,21 @@
    "parent_agency": "Department of Commerce",
    "parent_acronym": "DOC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0648-BO38",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0648-BO38"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0648-BO38",
+   "fr_documents": [
+    {
+     "title": "Fisheries of the Northeastern United States; Omnibus Management Flexibility Amendment to New England Fishery Management Council Fishery Management Plans",
+     "type": "Proposed Rule",
+     "publication_date": "2026-07-08",
+     "html_url": "https://www.federalregister.gov/documents/2026/07/08/2026-13809/fisheries-of-the-northeastern-united-states-omnibus-management-flexibility-amendment-to-new-england"
+    },
+    {
+     "title": "Fisheries of the Northeastern United States; Omnibus Management Flexibility Amendment to New England Fishery Management Council Fishery Management Plans",
+     "type": "Proposed Rule",
+     "publication_date": "2026-05-14",
+     "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09617/fisheries-of-the-northeastern-united-states-omnibus-management-flexibility-amendment-to-new-england"
+    }
+   ]
   },
   {
    "agency_code": "0938",
@@ -5038,7 +5570,8 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0938-ZC09",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0938-ZC09"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0938-ZC09",
+   "fr_documents": []
   },
   {
    "agency_code": "1140",
@@ -5058,7 +5591,8 @@
    "parent_agency": "Department of Justice",
    "parent_acronym": "DOJ",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1140-ZA02",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1140-ZA02"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1140-ZA02",
+   "fr_documents": []
   },
   {
    "agency_code": "1205",
@@ -5078,7 +5612,8 @@
    "parent_agency": "Department of Labor",
    "parent_acronym": "DOL",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1205-AC33",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1205-AC33"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1205-AC33",
+   "fr_documents": []
   },
   {
    "agency_code": "3038",
@@ -5096,7 +5631,21 @@
    "agency": "Commodity Futures Trading Commission",
    "agency_acronym": "CFTC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3038-AF65",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3038-AF65"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3038-AF65",
+   "fr_documents": [
+    {
+     "title": "Prediction Markets; Public Interest Determinations",
+     "type": "Proposed Rule",
+     "publication_date": "2026-06-12",
+     "html_url": "https://www.federalregister.gov/documents/2026/06/12/2026-11854/prediction-markets-public-interest-determinations"
+    },
+    {
+     "title": "Prediction Markets",
+     "type": "Proposed Rule",
+     "publication_date": "2026-03-16",
+     "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05105/prediction-markets"
+    }
+   ]
   },
   {
    "agency_code": "3060",
@@ -5114,7 +5663,8 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AL12",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AL12"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AL12",
+   "fr_documents": []
   },
   {
    "agency_code": "3060",
@@ -5132,7 +5682,8 @@
    "agency": "Federal Communications Commission",
    "agency_acronym": "FCC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3060-AM36",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM36"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3060-AM36",
+   "fr_documents": []
   },
   {
    "agency_code": "3084",
@@ -5150,7 +5701,8 @@
    "agency": "Federal Trade Commission",
    "agency_acronym": "FTC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3084-ZA04",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3084-ZA04"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3084-ZA04",
+   "fr_documents": []
   },
   {
    "agency_code": "1117",
@@ -5170,7 +5722,8 @@
    "parent_agency": "Department of Justice",
    "parent_acronym": "DOJ",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1117-ZA16",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1117-ZA16"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1117-ZA16",
+   "fr_documents": []
   },
   {
    "agency_code": "1235",
@@ -5190,7 +5743,15 @@
    "parent_agency": "Department of Labor",
    "parent_acronym": "DOL",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1235-AA51",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1235-AA51"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1235-AA51",
+   "fr_documents": [
+    {
+     "title": "Application of the Fair Labor Standards Act to Domestic Service",
+     "type": "Proposed Rule",
+     "publication_date": "2025-07-02",
+     "html_url": "https://www.federalregister.gov/documents/2025/07/02/2025-12316/application-of-the-fair-labor-standards-act-to-domestic-service"
+    }
+   ]
   },
   {
    "agency_code": "1845",
@@ -5210,7 +5771,8 @@
    "parent_agency": "Department of Education",
    "parent_acronym": "ED",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1845-ZA00",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1845-ZA00"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1845-ZA00",
+   "fr_documents": []
   },
   {
    "agency_code": "2060",
@@ -5230,7 +5792,15 @@
    "parent_agency": "Environmental Protection Agency",
    "parent_acronym": "EPA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2060-AW83",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AW83"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AW83",
+   "fr_documents": [
+    {
+     "title": "Amendments and Nonconformance Penalties for Model Year 2027 and Later Heavy-Duty Highway Engines and Amendments to Inducement Provisions for SCR-Equipped Diesel Engines",
+     "type": "Proposed Rule",
+     "publication_date": "2026-07-14",
+     "html_url": "https://www.federalregister.gov/documents/2026/07/14/2026-14112/amendments-and-nonconformance-penalties-for-model-year-2027-and-later-heavy-duty-highway-engines-and"
+    }
+   ]
   },
   {
    "agency_code": "3150",
@@ -5250,7 +5820,8 @@
    "parent_agency": "National Gallery of Art",
    "parent_acronym": "NGA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3150-ZA35",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3150-ZA35"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3150-ZA35",
+   "fr_documents": []
   },
   {
    "agency_code": "3235",
@@ -5270,7 +5841,8 @@
    "parent_agency": "Other Independent Agencies",
    "parent_acronym": "OTHINDAG",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3235-AN72",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN72"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN72",
+   "fr_documents": []
   },
   {
    "agency_code": "3235",
@@ -5290,7 +5862,8 @@
    "parent_agency": "Other Independent Agencies",
    "parent_acronym": "OTHINDAG",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3235-AN73",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN73"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN73",
+   "fr_documents": []
   },
   {
    "agency_code": "0648",
@@ -5310,7 +5883,15 @@
    "parent_agency": "Department of Commerce",
    "parent_acronym": "DOC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0648-BN38",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0648-BN38"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0648-BN38",
+   "fr_documents": [
+    {
+     "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Sea Ice Road and Trail Construction, Use, and Maintenance Activities Along the Beaufort Sea Coast in Alaska",
+     "type": "Proposed Rule",
+     "publication_date": "2026-02-02",
+     "html_url": "https://www.federalregister.gov/documents/2026/02/02/2026-02048/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-sea"
+    }
+   ]
   },
   {
    "agency_code": "0910",
@@ -5330,7 +5911,8 @@
    "parent_agency": "Department of Health and Human Services",
    "parent_acronym": "HHS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0910-ZE10",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE10"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZE10",
+   "fr_documents": []
   },
   {
    "agency_code": "1004",
@@ -5350,7 +5932,8 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1004-ZB08",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1004-ZB08"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1004-ZB08",
+   "fr_documents": []
   },
   {
    "agency_code": "1506",
@@ -5370,7 +5953,15 @@
    "parent_agency": "Department of the Treasury",
    "parent_acronym": "TREAS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1506-AB72",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1506-AB72"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1506-AB72",
+   "fr_documents": [
+    {
+     "title": "Anti-Money Laundering and Countering the Financing of Terrorism Programs",
+     "type": "Proposed Rule",
+     "publication_date": "2026-04-10",
+     "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-07033/anti-money-laundering-and-countering-the-financing-of-terrorism-programs"
+    }
+   ]
   },
   {
    "agency_code": "1506",
@@ -5390,7 +5981,15 @@
    "parent_agency": "Department of the Treasury",
    "parent_acronym": "TREAS",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1506-AB73",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1506-AB73"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1506-AB73",
+   "fr_documents": [
+    {
+     "title": "Permitted Payment Stablecoin Issuer Anti-Money Laundering/Countering the Financing of Terrorism Program and Sanctions Compliance Program Requirements",
+     "type": "Proposed Rule",
+     "publication_date": "2026-04-10",
+     "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-06963/permitted-payment-stablecoin-issuer-anti-money-launderingcountering-the-financing-of-terrorism"
+    }
+   ]
   },
   {
    "agency_code": "2050",
@@ -5410,7 +6009,8 @@
    "parent_agency": "Environmental Protection Agency",
    "parent_acronym": "EPA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2050-AH52",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2050-AH52"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2050-AH52",
+   "fr_documents": []
   },
   {
    "agency_code": "2060",
@@ -5430,7 +6030,8 @@
    "parent_agency": "Environmental Protection Agency",
    "parent_acronym": "EPA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2060-AW91",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AW91"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AW91",
+   "fr_documents": []
   },
   {
    "agency_code": "3064",
@@ -5448,7 +6049,15 @@
    "agency": "Federal Deposit Insurance Corporation",
    "agency_acronym": "FDIC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3064-AG19",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3064-AG19"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3064-AG19",
+   "fr_documents": [
+    {
+     "title": "GENIUS Act Requirements and Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers and Insured Depository Institutions",
+     "type": "Proposed Rule",
+     "publication_date": "2026-04-10",
+     "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-06974/genius-act-requirements-and-standards-for-fdic-supervised-permitted-payment-stablecoin-issuers-and"
+    }
+   ]
   },
   {
    "agency_code": "4030",
@@ -5466,7 +6075,8 @@
    "agency": "Financial Stability Oversight Council",
    "agency_acronym": "FSOC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=4030-ZA02",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=4030-ZA02"
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=4030-ZA02",
+   "fr_documents": []
   },
   {
    "agency_code": "0906",
