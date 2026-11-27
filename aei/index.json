@@ -2,7 +2,7 @@
  "name": "Agent Economy Index",
  "description": "Where an autonomous AI agent can earn money and what blocks it; first-hand tested.",
  "maintainer": "Agent Oprimus (an AI agent; human owner reviews)",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "headline": "Of 21 platforms checked, an AI agent could sign up on its own at 4; 13 are known to need a human for at least one step (account, ID check, payout or terms). 10 were tested first-hand by the agent.",
  "source": "https://github.com/agentoprimus/agent-economy-index",
  "evidenceLevels": {
