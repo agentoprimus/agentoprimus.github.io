@@ -1,11 +1,11 @@
 {
  "source": "reginfo.gov (OMB Office of Information and Regulatory Affairs), public XML reports. US government data, public domain. Not affiliated with OMB/OIRA.",
- "rundate": "2026-11-26",
+ "rundate": "2026-11-27",
  "recent_days": 7,
  "counts": {
   "under_review": 182,
-  "arrived_recent": 38,
-  "concluded_recent": 40,
+  "arrived_recent": 31,
+  "concluded_recent": 37,
   "economically_significant_under_review": 2
  },
  "arrived": [
@@ -725,167 +725,6 @@
    "agency_acronym": "FTC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3084-ZA04",
    "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3084-ZA04",
-   "fr_documents": []
-  },
-  {
-   "agency_code": "1117",
-   "rin": "1117-ZA16",
-   "title": "Guidance Regarding Applications to Conduct Research Under the Provisions of the Halt All Lethal Trafficking of Fentanyl Act",
-   "stage": "Notice",
-   "economically_significant": "No",
-   "date_received": "2026-11-19",
-   "legal_deadline": "None",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "No",
-   "international_impacts": "No",
-   "tcja": "No",
-   "agency": "Drug Enforcement Administration",
-   "agency_acronym": "DEA",
-   "parent_agency": "Department of Justice",
-   "parent_acronym": "DOJ",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1117-ZA16",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1117-ZA16",
-   "fr_documents": []
-  },
-  {
-   "agency_code": "1235",
-   "rin": "1235-AA51",
-   "title": "Application of the Fair Labor Standards Act to Domestic Service",
-   "stage": "Proposed Rule",
-   "economically_significant": "No",
-   "date_received": "2026-11-19",
-   "legal_deadline": "None",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "No",
-   "international_impacts": "No",
-   "tcja": "No",
-   "agency": "Wage and Hour Division",
-   "agency_acronym": "WHD",
-   "parent_agency": "Department of Labor",
-   "parent_acronym": "DOL",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1235-AA51",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1235-AA51",
-   "fr_documents": [
-    {
-     "title": "Application of the Fair Labor Standards Act to Domestic Service",
-     "type": "Proposed Rule",
-     "publication_date": "2025-07-02",
-     "html_url": "https://www.federalregister.gov/documents/2025/07/02/2025-12316/application-of-the-fair-labor-standards-act-to-domestic-service"
-    }
-   ]
-  },
-  {
-   "agency_code": "1845",
-   "rin": "1845-ZA00",
-   "title": "RFI on Transparency in Student Lending and Disclosures",
-   "stage": "Notice",
-   "economically_significant": "No",
-   "date_received": "2026-11-19",
-   "legal_deadline": "None",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "No",
-   "international_impacts": "No",
-   "tcja": "No",
-   "agency": "Office of Federal Student Aid",
-   "agency_acronym": "FSA",
-   "parent_agency": "Department of Education",
-   "parent_acronym": "ED",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1845-ZA00",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1845-ZA00",
-   "fr_documents": []
-  },
-  {
-   "agency_code": "2060",
-   "rin": "2060-AW83",
-   "title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
-   "stage": "Final Rule",
-   "economically_significant": "No",
-   "date_received": "2026-11-19",
-   "legal_deadline": "None",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "No",
-   "international_impacts": "No",
-   "tcja": "No",
-   "agency": "Office of Air and Radiation",
-   "agency_acronym": "OAR",
-   "parent_agency": "Environmental Protection Agency",
-   "parent_acronym": "EPA",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2060-AW83",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AW83",
-   "fr_documents": [
-    {
-     "title": "Amendments and Nonconformance Penalties for Model Year 2027 and Later Heavy-Duty Highway Engines and Amendments to Inducement Provisions for SCR-Equipped Diesel Engines",
-     "type": "Proposed Rule",
-     "publication_date": "2026-07-14",
-     "html_url": "https://www.federalregister.gov/documents/2026/07/14/2026-14112/amendments-and-nonconformance-penalties-for-model-year-2027-and-later-heavy-duty-highway-engines-and"
-    }
-   ]
-  },
-  {
-   "agency_code": "3150",
-   "rin": "3150-ZA35",
-   "title": "Civilian Maritime Nuclear Licensing Considerations",
-   "stage": "Final Rule",
-   "economically_significant": "No",
-   "date_received": "2026-11-19",
-   "legal_deadline": "None",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "No",
-   "international_impacts": "No",
-   "tcja": "No",
-   "agency": "Nuclear Regulatory Commission",
-   "agency_acronym": "NRC",
-   "parent_agency": "National Gallery of Art",
-   "parent_acronym": "NGA",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3150-ZA35",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3150-ZA35",
-   "fr_documents": []
-  },
-  {
-   "agency_code": "3235",
-   "rin": "3235-AN72",
-   "title": "Amendments to Rule 13f-2, Related Form SHO, and Regulation SHO",
-   "stage": "Proposed Rule",
-   "economically_significant": "No",
-   "date_received": "2026-11-19",
-   "legal_deadline": "None",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "Yes",
-   "international_impacts": "No",
-   "tcja": "No",
-   "agency": "Securities and Exchange Commission",
-   "agency_acronym": "SEC",
-   "parent_agency": "Other Independent Agencies",
-   "parent_acronym": "OTHINDAG",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3235-AN72",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN72",
-   "fr_documents": []
-  },
-  {
-   "agency_code": "3235",
-   "rin": "3235-AN73",
-   "title": "Amendments to Rule 10c-1a",
-   "stage": "Proposed Rule",
-   "economically_significant": "No",
-   "date_received": "2026-11-19",
-   "legal_deadline": "None",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "Yes",
-   "international_impacts": "No",
-   "tcja": "No",
-   "agency": "Securities and Exchange Commission",
-   "agency_acronym": "SEC",
-   "parent_agency": "Other Independent Agencies",
-   "parent_acronym": "OTHINDAG",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3235-AN73",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN73",
    "fr_documents": []
   }
  ],
@@ -2113,121 +1952,6 @@
    "agency_acronym": "FDIC",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3064-ZA57",
    "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3064-ZA57",
-   "fr_documents": [],
-   "published_after_review": null
-  },
-  {
-   "agency_code": "1018",
-   "rin": "1018-BH42",
-   "title": "Endangered and Threatened Wildlife and Plants; Listing Determination and Critical Habitat Designation for Peppered (Colorless) Shiner",
-   "stage": "Proposed Rule",
-   "economically_significant": "No",
-   "date_received": "2026-09-22",
-   "legal_deadline": "Judicial",
-   "date_completed": "2026-11-19",
-   "decision": "Statutory or Judicial Deadline",
-   "date_published": "",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "No",
-   "international_impacts": "No",
-   "unfunded_mandates": "No",
-   "major": "No",
-   "homeland_security": "No",
-   "regulatory_flexibility_analysis": "No",
-   "small_entities_affected": "",
-   "federalism_implications": "No",
-   "tcja": "No",
-   "agency": "United States Fish and Wildlife Service",
-   "agency_acronym": "FWS",
-   "parent_agency": "Department of the Interior",
-   "parent_acronym": "DOI",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BH42",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH42",
-   "fr_documents": [
-    {
-     "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for Peppered Shiner",
-     "type": "Proposed Rule",
-     "publication_date": "2026-11-25",
-     "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23968/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-peppered-shiner"
-    }
-   ],
-   "published_after_review": {
-    "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for Peppered Shiner",
-    "type": "Proposed Rule",
-    "publication_date": "2026-11-25",
-    "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23968/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-peppered-shiner"
-   }
-  },
-  {
-   "agency_code": "1018",
-   "rin": "1018-BI86",
-   "title": "Endangered and Threatened Wildlife and Plants; Listing Determination for Rio Grande Shiner",
-   "stage": "Proposed Rule",
-   "economically_significant": "No",
-   "date_received": "2026-11-09",
-   "legal_deadline": "Judicial",
-   "date_completed": "2026-11-19",
-   "decision": "Statutory or Judicial Deadline",
-   "date_published": "",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "No",
-   "international_impacts": "No",
-   "unfunded_mandates": "No",
-   "major": "No",
-   "homeland_security": "No",
-   "regulatory_flexibility_analysis": "No",
-   "small_entities_affected": "",
-   "federalism_implications": "No",
-   "tcja": "No",
-   "agency": "United States Fish and Wildlife Service",
-   "agency_acronym": "FWS",
-   "parent_agency": "Department of the Interior",
-   "parent_acronym": "DOI",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BI86",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BI86",
-   "fr_documents": [
-    {
-     "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Rio Grande Shiner",
-     "type": "Proposed Rule",
-     "publication_date": "2026-11-25",
-     "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23969/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-rio-grande-shiner"
-    }
-   ],
-   "published_after_review": {
-    "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Rio Grande Shiner",
-    "type": "Proposed Rule",
-    "publication_date": "2026-11-25",
-    "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23969/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-rio-grande-shiner"
-   }
-  },
-  {
-   "agency_code": "2700",
-   "rin": "2700-AE91",
-   "title": "Procedures for Implementing the Freedom of Information Act (FOIA)",
-   "stage": "Final Rule",
-   "economically_significant": "No",
-   "date_received": "2026-10-07",
-   "legal_deadline": "None",
-   "date_completed": "2026-11-19",
-   "decision": "Consistent with Change",
-   "date_published": "",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "No",
-   "international_impacts": "No",
-   "unfunded_mandates": "No",
-   "major": "No",
-   "homeland_security": "No",
-   "regulatory_flexibility_analysis": "No",
-   "small_entities_affected": "No",
-   "federalism_implications": "No",
-   "tcja": "No",
-   "agency": "National Aeronautics and Space Administration",
-   "agency_acronym": "NASA",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2700-AE91",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2700-AE91",
    "fr_documents": [],
    "published_after_review": null
   }
@@ -3486,21 +3210,7 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BH42",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH42",
-   "fr_documents": [
-    {
-     "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for Peppered Shiner",
-     "type": "Proposed Rule",
-     "publication_date": "2026-11-25",
-     "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23968/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-peppered-shiner"
-    }
-   ],
-   "published_after_review": {
-    "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for Peppered Shiner",
-    "type": "Proposed Rule",
-    "publication_date": "2026-11-25",
-    "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23968/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-peppered-shiner"
-   }
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BH42"
   },
   {
    "agency_code": "1018",
@@ -3529,21 +3239,7 @@
    "parent_agency": "Department of the Interior",
    "parent_acronym": "DOI",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1018-BI86",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BI86",
-   "fr_documents": [
-    {
-     "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Rio Grande Shiner",
-     "type": "Proposed Rule",
-     "publication_date": "2026-11-25",
-     "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23969/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-rio-grande-shiner"
-    }
-   ],
-   "published_after_review": {
-    "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Rio Grande Shiner",
-    "type": "Proposed Rule",
-    "publication_date": "2026-11-25",
-    "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23969/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-rio-grande-shiner"
-   }
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1018-BI86"
   },
   {
    "agency_code": "2700",
@@ -3570,9 +3266,7 @@
    "agency": "National Aeronautics and Space Administration",
    "agency_acronym": "NASA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2700-AE91",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2700-AE91",
-   "fr_documents": [],
-   "published_after_review": null
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2700-AE91"
   },
   {
    "agency_code": "3235",
@@ -5241,180 +4935,6 @@
    "parent_acronym": "EPA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2050-AH51",
    "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2050-AH51"
-  },
-  {
-   "agency_code": "0910",
-   "rin": "0910-AJ34",
-   "title": "Infant Formula Nutrient Requirements",
-   "stage": "Proposed Rule",
-   "economically_significant": "No",
-   "date_received": "2026-10-14",
-   "legal_deadline": "None",
-   "date_completed": "2026-10-28",
-   "decision": "Consistent with Change",
-   "date_published": "",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "No",
-   "international_impacts": "Yes",
-   "unfunded_mandates": "No",
-   "major": "No",
-   "homeland_security": "No",
-   "regulatory_flexibility_analysis": "Businesses",
-   "small_entities_affected": "",
-   "federalism_implications": "No",
-   "tcja": "No",
-   "agency": "Food and Drug Administration",
-   "agency_acronym": "FDA",
-   "parent_agency": "Department of Health and Human Services",
-   "parent_acronym": "HHS",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0910-AJ34",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-AJ34"
-  },
-  {
-   "agency_code": "0910",
-   "rin": "0910-ZD81",
-   "title": "Potency Assurance for Cellular and Gene Therapy Products; Guidance for Industry; Availability",
-   "stage": "Notice",
-   "economically_significant": "No",
-   "date_received": "2026-09-17",
-   "legal_deadline": "None",
-   "date_completed": "2026-10-28",
-   "decision": "Consistent with Change",
-   "date_published": "",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "No",
-   "international_impacts": "No",
-   "unfunded_mandates": "No",
-   "major": "No",
-   "homeland_security": "No",
-   "regulatory_flexibility_analysis": "No",
-   "small_entities_affected": "",
-   "federalism_implications": "No",
-   "tcja": "No",
-   "agency": "Food and Drug Administration",
-   "agency_acronym": "FDA",
-   "parent_agency": "Department of Health and Human Services",
-   "parent_acronym": "HHS",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0910-ZD81",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0910-ZD81"
-  },
-  {
-   "agency_code": "0945",
-   "rin": "0945-AA27",
-   "title": "Nondiscrimination on the Basis of Disability in Programs or Activities Receiving Federal Financial Assistance",
-   "stage": "Final Rule",
-   "economically_significant": "No",
-   "date_received": "2026-09-30",
-   "legal_deadline": "None",
-   "date_completed": "2026-10-28",
-   "decision": "Consistent with Change",
-   "date_published": "",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "No",
-   "international_impacts": "No",
-   "unfunded_mandates": "No",
-   "major": "No",
-   "homeland_security": "No",
-   "regulatory_flexibility_analysis": "No",
-   "small_entities_affected": "No",
-   "federalism_implications": "No",
-   "tcja": "No",
-   "agency": "Office for Civil Rights",
-   "agency_acronym": "OCR",
-   "parent_agency": "Department of Health and Human Services",
-   "parent_acronym": "HHS",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0945-AA27",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=0945-AA27"
-  },
-  {
-   "agency_code": "1004",
-   "rin": "1004-ZB07",
-   "title": "Notice of Realty Action: Direct Sale of Public Land for Affordable Housing Purposes in Clark County, Nevada",
-   "stage": "Notice",
-   "economically_significant": "No",
-   "date_received": "2026-10-14",
-   "legal_deadline": "None",
-   "date_completed": "2026-10-28",
-   "decision": "Consistent with Change",
-   "date_published": "",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "No",
-   "international_impacts": "No",
-   "unfunded_mandates": "No",
-   "major": "No",
-   "homeland_security": "No",
-   "regulatory_flexibility_analysis": "No",
-   "small_entities_affected": "No",
-   "federalism_implications": "No",
-   "tcja": "No",
-   "agency": "Bureau of Land Management",
-   "agency_acronym": "BLM",
-   "parent_agency": "Department of the Interior",
-   "parent_acronym": "DOI",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1004-ZB07",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1004-ZB07"
-  },
-  {
-   "agency_code": "1105",
-   "rin": "1105-AB71",
-   "title": "Implementation of HAVANA Act of 2021",
-   "stage": "Final Rule",
-   "economically_significant": "No",
-   "date_received": "2026-08-24",
-   "legal_deadline": "None",
-   "date_completed": "2026-10-28",
-   "decision": "Consistent with Change",
-   "date_published": "",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "No",
-   "international_impacts": "No",
-   "unfunded_mandates": "No",
-   "major": "No",
-   "homeland_security": "No",
-   "regulatory_flexibility_analysis": "No",
-   "small_entities_affected": "",
-   "federalism_implications": "No",
-   "tcja": "No",
-   "agency": "Legal Activities",
-   "agency_acronym": "LA",
-   "parent_agency": "Department of Justice",
-   "parent_acronym": "DOJ",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1105-AB71",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1105-AB71"
-  },
-  {
-   "agency_code": "1235",
-   "rin": "1235-AA46",
-   "title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
-   "stage": "Final Rule",
-   "economically_significant": "No",
-   "date_received": "2026-09-28",
-   "legal_deadline": "None",
-   "date_completed": "2026-10-28",
-   "decision": "Consistent with Change",
-   "date_published": "",
-   "pandemic_response": "No",
-   "health_care_act": "No",
-   "dodd_frank_act": "No",
-   "international_impacts": "No",
-   "unfunded_mandates": "No",
-   "major": "Yes",
-   "homeland_security": "No",
-   "regulatory_flexibility_analysis": "No",
-   "small_entities_affected": "",
-   "federalism_implications": "No",
-   "tcja": "No",
-   "agency": "Wage and Hour Division",
-   "agency_acronym": "WHD",
-   "parent_agency": "Department of Labor",
-   "parent_acronym": "DOL",
-   "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1235-AA46",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1235-AA46"
   }
  ],
  "under_review": [
@@ -6154,8 +5674,7 @@
    "parent_agency": "Department of Justice",
    "parent_acronym": "DOJ",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1117-ZA16",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1117-ZA16",
-   "fr_documents": []
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1117-ZA16"
   },
   {
    "agency_code": "1235",
@@ -6175,15 +5694,7 @@
    "parent_agency": "Department of Labor",
    "parent_acronym": "DOL",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1235-AA51",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1235-AA51",
-   "fr_documents": [
-    {
-     "title": "Application of the Fair Labor Standards Act to Domestic Service",
-     "type": "Proposed Rule",
-     "publication_date": "2025-07-02",
-     "html_url": "https://www.federalregister.gov/documents/2025/07/02/2025-12316/application-of-the-fair-labor-standards-act-to-domestic-service"
-    }
-   ]
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1235-AA51"
   },
   {
    "agency_code": "1845",
@@ -6203,8 +5714,7 @@
    "parent_agency": "Department of Education",
    "parent_acronym": "ED",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=1845-ZA00",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1845-ZA00",
-   "fr_documents": []
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=1845-ZA00"
   },
   {
    "agency_code": "2060",
@@ -6224,15 +5734,7 @@
    "parent_agency": "Environmental Protection Agency",
    "parent_acronym": "EPA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2060-AW83",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AW83",
-   "fr_documents": [
-    {
-     "title": "Amendments and Nonconformance Penalties for Model Year 2027 and Later Heavy-Duty Highway Engines and Amendments to Inducement Provisions for SCR-Equipped Diesel Engines",
-     "type": "Proposed Rule",
-     "publication_date": "2026-07-14",
-     "html_url": "https://www.federalregister.gov/documents/2026/07/14/2026-14112/amendments-and-nonconformance-penalties-for-model-year-2027-and-later-heavy-duty-highway-engines-and"
-    }
-   ]
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=2060-AW83"
   },
   {
    "agency_code": "3150",
@@ -6252,8 +5754,7 @@
    "parent_agency": "National Gallery of Art",
    "parent_acronym": "NGA",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3150-ZA35",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3150-ZA35",
-   "fr_documents": []
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3150-ZA35"
   },
   {
    "agency_code": "3235",
@@ -6273,8 +5774,7 @@
    "parent_agency": "Other Independent Agencies",
    "parent_acronym": "OTHINDAG",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3235-AN72",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN72",
-   "fr_documents": []
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN72"
   },
   {
    "agency_code": "3235",
@@ -6294,8 +5794,7 @@
    "parent_agency": "Other Independent Agencies",
    "parent_acronym": "OTHINDAG",
    "reginfo_url": "https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=3235-AN73",
-   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN73",
-   "fr_documents": []
+   "federal_register_url": "https://www.federalregister.gov/documents/search?conditions%5Bregulation_id_number%5D=3235-AN73"
   },
   {
    "agency_code": "0648",
